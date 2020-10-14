@@ -4,21 +4,21 @@
 
 #Plan
 
-###Javascript Fundamentals
+### Javascript Fundamentals
 
-####Running Javascript
+##### Running Javascript
 
 - Script Tags
 - Browser Console
 - Link external file
 
-####Variables
+#### Variables
 
 - Declarations - Var, Let, Const
 - Scope - Global, Function, Block
 - Hosting
 
-####Data Types and Structures
+#### Data Types and Structures
 
 - null
 - Object
@@ -33,23 +33,23 @@
 - String
 - Symbol
 
-#####Data Structures
+##### Data Structures
 
 - Array
 - Map
 - Set/Weak Set
 - Date
 
-#####Type Conversion
+##### Type Conversion
 
 - Explicity Conversion
 - Implicit Conversion
 
-#####Equality
+##### Equality
 
 - == vs ===
 
-#####LOOPS
+##### LOOPS
 
 - while
 - do
@@ -58,13 +58,13 @@
 - for...in
 - for...of
 
-#####Control Flow
+##### Control Flow
 
 - If...else
 - switch
 - try/catch/throw
 
-#####Expressions and operators
+##### Expressions and operators
 
 - Assignment
 - Arithmatic
@@ -77,7 +77,7 @@
 - Comma
 - Unary
 
-######Functions
+##### Functions
 
 - Function declarations
 - Function Expressions
