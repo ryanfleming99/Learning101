@@ -2,7 +2,7 @@
 
 - This repository is to store and track what other developers and I are working on every morning. The first learning section is Javascript Fundamentals.
 
-#Plan
+# Plan
 
 ### Javascript Fundamentals
 
