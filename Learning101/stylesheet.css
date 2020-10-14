@@ -1,0 +1,16 @@
+.container {
+  margin: 100px;
+  background-color: azure;
+}
+
+.spacing {
+  padding: 60px 50px 10px 50px;
+}
+
+.word-spacing {
+  padding: 0px 50px;
+}
+
+b {
+  color: #5588ff;
+}
